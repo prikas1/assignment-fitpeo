@@ -15,7 +15,7 @@ const cardContent = [
   },
    {
     name: "card3",
-    imgURL:"../balance_img.jpg",
+    imgURL:"./public/balance_img.jpg",
     work: "Ballance",
     doller: "$2.4k",
     percent: "2% this month"
