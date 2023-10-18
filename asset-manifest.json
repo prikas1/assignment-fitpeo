@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fitpeo-assignment/static/css/main.5af5630a.css",
-    "main.js": "/fitpeo-assignment/static/js/main.b0ae7c8f.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/fitpeo-assignment/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/fitpeo-assignment/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/fitpeo-assignment/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/fitpeo-assignment/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/fitpeo-assignment/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/fitpeo-assignment/index.html",
-    "main.5af5630a.css.map": "/fitpeo-assignment/static/css/main.5af5630a.css.map",
-    "main.b0ae7c8f.js.map": "/fitpeo-assignment/static/js/main.b0ae7c8f.js.map"
+    "main.css": "/assignment-fitpeo/static/css/main.415ca513.css",
+    "main.js": "/assignment-fitpeo/static/js/main.b0ae7c8f.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/assignment-fitpeo/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/assignment-fitpeo/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/assignment-fitpeo/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/assignment-fitpeo/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/assignment-fitpeo/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/assignment-fitpeo/index.html",
+    "main.415ca513.css.map": "/assignment-fitpeo/static/css/main.415ca513.css.map",
+    "main.b0ae7c8f.js.map": "/assignment-fitpeo/static/js/main.b0ae7c8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5af5630a.css",
+    "static/css/main.415ca513.css",
     "static/js/main.b0ae7c8f.js"
   ]
 }
